@@ -1,0 +1,7 @@
+Git commands to be used today
+
+1 git init (to come in untracked level)
+2 git add (to come at stage level)
+3 git commit (to get ito tracked final level)
+4 
+5 
